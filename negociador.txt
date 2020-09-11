@@ -1,0 +1,1 @@
+site: , usuario: , senha: 0
